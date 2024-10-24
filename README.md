@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @raseel-mohamed
 - 👀 I’m interested in collaborating on ruby projects
-- 🌱 I’m currently learning (always learning) ruby. Learning python
 - 📫 How to reach me? on Github
 
 <!---
